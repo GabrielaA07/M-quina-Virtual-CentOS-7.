@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 88 4f a3 e9 47 fb 2a-1c 54 2e df cd b5 05 80</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">VM_Ata_CentOS7_SOII.vmx</vmxPathName></VM><tools-install-info><installError>21004</installError><updateCounter>2</updateCounter></tools-install-info></Foundry>
